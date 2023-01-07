@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Kanpur, 2014
+* M.Sc. in Computer Science, Chennai Mathematical Institute, 2017
+* Ph.D in Computer Science, National University of Singapore, 2019-pursuing
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,15 +26,14 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+   -->
+
+Skillset
+========
+* Programming: Python, Java, C/C++, GNU Octave, Matlab, Intel x86 Assembly
+* Typesetting: Latex
+* Operating Systems: Linux, Windows
+* Miscellaneous: Google Apps Suite, MS Office
 
 Publications
 ======
