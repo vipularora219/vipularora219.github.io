@@ -7,8 +7,6 @@ date: 2022-04-18
 venue: 'SODA 2023'
 paperurl: 'https://arxiv.org/abs/2204.08404'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://arxiv.org/abs/2204.08404)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
